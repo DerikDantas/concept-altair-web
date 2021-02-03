@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/DerikDantas/Altair-Concept.git/static/js/main.002a8437.chunk.js",
+    "main.js.map": "/DerikDantas/Altair-Concept.git/static/js/main.002a8437.chunk.js.map",
+    "runtime-main.js": "/DerikDantas/Altair-Concept.git/static/js/runtime-main.aa8c6efa.js",
+    "runtime-main.js.map": "/DerikDantas/Altair-Concept.git/static/js/runtime-main.aa8c6efa.js.map",
+    "static/css/2.ec02d681.chunk.css": "/DerikDantas/Altair-Concept.git/static/css/2.ec02d681.chunk.css",
+    "static/js/2.9609779e.chunk.js": "/DerikDantas/Altair-Concept.git/static/js/2.9609779e.chunk.js",
+    "static/js/2.9609779e.chunk.js.map": "/DerikDantas/Altair-Concept.git/static/js/2.9609779e.chunk.js.map",
+    "index.html": "/DerikDantas/Altair-Concept.git/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/DerikDantas/Altair-Concept.git/static/css/2.ec02d681.chunk.css.map",
+    "static/js/2.9609779e.chunk.js.LICENSE.txt": "/DerikDantas/Altair-Concept.git/static/js/2.9609779e.chunk.js.LICENSE.txt",
+    "static/media/Union-banner.dd4d6689.png": "/DerikDantas/Altair-Concept.git/static/media/Union-banner.dd4d6689.png",
+    "static/media/Union-tech.8dd253c5.png": "/DerikDantas/Altair-Concept.git/static/media/Union-tech.8dd253c5.png",
+    "static/media/Vector.60ebe31e.png": "/DerikDantas/Altair-Concept.git/static/media/Vector.60ebe31e.png",
+    "static/media/background-promo.b033523d.png": "/DerikDantas/Altair-Concept.git/static/media/background-promo.b033523d.png",
+    "static/media/computer-banner.973fef37.png": "/DerikDantas/Altair-Concept.git/static/media/computer-banner.973fef37.png",
+    "static/media/img-1.a3895efa.png": "/DerikDantas/Altair-Concept.git/static/media/img-1.a3895efa.png",
+    "static/media/img-2.e47d92e8.png": "/DerikDantas/Altair-Concept.git/static/media/img-2.e47d92e8.png",
+    "static/media/img-3.87a8da49.png": "/DerikDantas/Altair-Concept.git/static/media/img-3.87a8da49.png",
+    "static/media/img-4.4bb92d23.png": "/DerikDantas/Altair-Concept.git/static/media/img-4.4bb92d23.png",
+    "static/media/player.e05f2eb0.png": "/DerikDantas/Altair-Concept.git/static/media/player.e05f2eb0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa8c6efa.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.9609779e.chunk.js",
+    "static/js/main.002a8437.chunk.js"
+  ]
+}
