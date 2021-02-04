@@ -13,7 +13,7 @@ function Banner() {
             <div class="banner-text">
                 <h1>F#!%ING <br/> FAST!</h1>
 
-                <h3>wıth altaır, GO BEYOND POWER!</h3>
+                <h3>wıth altaır Gaming, GO BEYOND POWER!</h3>
 
                 <a href="#">DISCOVER</a>
             </div>
