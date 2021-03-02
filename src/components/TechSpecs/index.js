@@ -48,7 +48,7 @@ function TechSpecs() {
                 </table>
                 
             </div>
-            <img src={UnionTech} />
+            <img src={UnionTech} alt="..." />
         </Container>
     )
 }

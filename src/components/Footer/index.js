@@ -9,14 +9,14 @@ function Footer() {
     <Container>
         <div class="container order-now">
             <h1>ALTAIR GAMING LAPTOP</h1>
-            <a href="#">ORDER NOW</a>
+            <a href="/">ORDER NOW</a>
         </div>
         
 
         <div class="container">
             <div class="row footer-container">
                 <div class="col-md-4 col-xs-6">
-                    <img src={logo} />
+                    <img src={logo} alt="..." />
                 </div>
                 <div class="col-md-8 col-xs-6 row">
                     <div class="col-md-3 footer-links">

@@ -13,22 +13,22 @@ function PromoDois() {
             <div class="container">
                 <div class="row">
                     <div class="col-sm-3 col-xs-6 colunas-promo" data-aos="fade-down-right" data-aos-duration="1000" data-aos-once="true">
-                        <img src={iconUM} />
+                        <img src={iconUM} alt="..." />
                         <p class="icon-1" >CUSTOMIZABLE <br/>AS F#!%</p>
                         <p>Praesent vulputate nisi sapien, ac lacinia nulla posuere sit.</p>
                     </div>
                     <div class="col-sm-3 col-xs-6 colunas-promo" data-aos="fade-down" data-aos-duration="1000" data-aos-once="true">
-                        <img src={iconDois} />
+                        <img src={iconDois} alt="..." />
                         <p class="icon-2">UP TO 12 <br/>INSTALLMENTS</p>
                         <p>Praesent vulputate nisi sapien, ac lacinia nulla posuere sit.</p>
                     </div>
                     <div class="col-sm-3 col-xs-6 colunas-promo" data-aos="fade-down" data-aos-duration="1000" data-aos-once="true">
-                        <img src={iconTres} />
+                        <img src={iconTres} alt="..." />
                         <p class="icon-3">SHIPMENTS ARE <br/>SO FAST!</p>
                         <p>Praesent vulputate nisi sapien, ac lacinia nulla posuere sit.</p>
                     </div>
                     <div class="col-sm-3 col-xs-6 colunas-promo" data-aos="fade-down-left" data-aos-duration="1000" data-aos-once="true">
-                        <img src={iconQuatro} />
+                        <img src={iconQuatro} alt="..." />
                         <p class="icon-4">FAST & RELIABLE <br/>TECH SERVICE</p>
                         <p>Praesent vulputate nisi sapien, ac lacinia nulla posuere sit.</p>
                     </div>

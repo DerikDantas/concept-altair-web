@@ -1,7 +1,6 @@
 import React from 'react'
 import {Container} from './style'
 import logo from '../../assets/images/Union.png'
-import './menu'
 
 export default function Navbar(){
     return(
@@ -16,25 +15,25 @@ export default function Navbar(){
                     <nav>
                         <ul>
                         <li>
-                            <a href="#">HOME</a>
+                            <a href="/">HOME</a>
                         </li>
                         <li>
-                            <a href="#">CORPORATE</a>
+                            <a href="/">CORPORATE</a>
                         </li>
                         <li>
-                            <a href="#">PRODUCT</a>
+                            <a href="/">PRODUCT</a>
                         </li>
                         <li>
-                            <img src={logo} />
+                            <img src={logo} alt="..." />
                         </li>
                         <li>
-                            <a href="#">EQUIP</a>
+                            <a href="/">EQUIP</a>
                         </li>
                         <li>
-                            <a href="#">SUPPORT</a>
+                            <a href="/">SUPPORT</a>
                         </li>
                         <li>
-                            <a href="#">CONTACT</a>
+                            <a href="/">CONTACT</a>
                         </li>
                         </ul>
                     </nav>

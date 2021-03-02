@@ -16,11 +16,11 @@ function Depoimentos() {
                         <p>Marcin “JANKOS” Jankowski</p>
                     </div>
                     <div class="col-sm-6 col-xs-6 coluna-player" data-aos="fade-left" data-aos-duration="1200">
-                        <img src={player}/>
+                        <img src={player} alt="..." />
                     </div>
                 </div>
             </div>
-            <img src={vector} />
+            <img src={vector} alt="..." />
         </Container>
     );
 }

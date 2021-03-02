@@ -7,15 +7,15 @@ import pcBanner from '../../assets/images/computer-banner.png'
 function Banner() {
   return(
       <Container>
-            <img src={logoBanner} class="logo-fundo"/>
-            <img src={pcBanner} class="pc-img" />
+            <img src={logoBanner} class="logo-fundo" alt="..." />
+            <img src={pcBanner} class="pc-img" alt="..." />
 
             <div class="banner-text">
                 <h1>F#!%ING <br/> FAST!</h1>
 
                 <h3>wıth altaır Gaming, GO BEYOND POWER!</h3>
 
-                <a href="#">DISCOVER</a>
+                <a href="/">DISCOVER</a>
             </div>
       </Container>
   );
