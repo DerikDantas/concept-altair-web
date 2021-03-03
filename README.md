@@ -6,4 +6,4 @@ Feito com base em layout visto na Comunidade do Figma -
 <a href="https://www.figma.com/file/ryUpWbPwXCgLpDoULL2a5x/Altair---Concept-Gaming-Laptop-Landing-Page-Design-(Community)">Ver layout</a>
 
 ## Live Demo
-a href="https://altairconcept.netlify.app/" >altairconcept.netlify.app</a>
+<a href="https://altairconcept.netlify.app/" >altairconcept.netlify.app</a>
